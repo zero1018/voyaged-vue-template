@@ -1,2 +1,3 @@
-# voyaged-vue-template
-这是一个通过我脚手架链接到的vue模版，包含了vue2，3版本的适配
+🎉 基于 vite2 + Vue3.2 + TypeScript + pinia + mock + sass + vantUI + viewport + tailwind+ axios 封装 的基础模版
+
+使用pnpm管理项目
